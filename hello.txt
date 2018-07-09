@@ -1,2 +1,1 @@
-hello
-good
+foo = foo version 3
